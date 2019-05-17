@@ -7,7 +7,7 @@ The objective of this challenge is determine which dinosaurs are the most impora
 <b>What You Know</b>
 * You will be provided a json file called all-dinos.json
 * Each element/item in the json has identical properties
-* Each id is unique
+* Each dinosaur contains a unique id
 * The array 'friends' contains ids of other dinosaurs
 
 <b>Your Objective</b>  
